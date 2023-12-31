@@ -1,0 +1,7 @@
+opencv-python
+tflearn
+tensorflow
+pafy
+youtube_dl
+tqdm
+matplotlib
